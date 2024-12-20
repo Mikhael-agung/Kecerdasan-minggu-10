@@ -74,3 +74,6 @@ test_data = {"Cuaca": "Hujan", "Waktu": "Sore", "Suhu": "Sejuk"}
 prediction = predict(test_data, prob_kelas, prob_fitur)
 # Mencetak hasil prediksi untuk data uji
 print("Prediksi Membawa Payung:", prediction)
+
+# uji coba upload melalui Linux 
+# Agak ribet ternyata sih, gak kebiasa karena memakai CLI sepenuhnya. kalau di windows ada github dekstop sedangkan di linux tidak memakai
